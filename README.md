@@ -11,6 +11,6 @@ _italic_
 
 [click here](www.google.com)
 
-```python
+```javascript
 console.log("hola mundo")
 ```
